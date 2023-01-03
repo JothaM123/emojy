@@ -7,6 +7,7 @@ btw = by the way
 ok = okay 
 fbi = forget about it  
 asap = as soon as possible
+---
 2day = today
 2morrow = tomorrow
 emo_smile = 🙂
